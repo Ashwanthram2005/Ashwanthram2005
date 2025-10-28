@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+guys add this to your GitHub profiles i.e the repository with your username's readme file## 💻 Competitive Programming
+
+### LeetCode Progress
+
+![LeetCode Stats](https://leetcode.card.workers.dev/?a9ex2x57x8=hereusername&theme=dark&font=baloo)
+
+*📊 My Coding Journey:*
+- Solving problems daily
+- Improving algorithm skills
+- Preparing for technical interviews
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/a9ex2x57x8/)
