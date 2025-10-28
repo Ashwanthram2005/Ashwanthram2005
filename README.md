@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ### LeetCode Progress
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?a9ex2x57x8=hereusername&theme=dark&font=baloo)
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=a9ex2x57x8&theme=dark&font=baloo)
+
 
 *📊 My Coding Journey:*
 - Solving problems daily
